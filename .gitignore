@@ -1,3 +1,4 @@
 data/
 .ipynb_checkpoints
-processed_dataframe.pkl
+*.pkl
+*.joblib
