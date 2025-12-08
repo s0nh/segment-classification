@@ -2,3 +2,6 @@ data/
 .ipynb_checkpoints
 *.pkl
 *.joblib
+*.csv
+*.model
+*.joblib
